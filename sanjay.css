@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 50px 100px;
+    box-sizing: border-box;
+    margin: 20px;
+    overflow-y: hidden;
+    background-image: url(dramatic-landscape-view-with-sun-rays-shining-through-dark-cloudy-sky.jpg);
+    background-size: 150% 150%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 45px;
+}
+
+#container {
+    text-align: center;
+    background-color: rgba(3, 226, 226, 0.893);
+    padding: 50px;
+    margin: 40px;
+}
+
+#input-div {
+    display: inline-block;
+}
+
+.inp {
+    padding: 5px 10px;
+    margin: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#lb {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#span {
+    color: rgb(34, 214, 255);
+}
